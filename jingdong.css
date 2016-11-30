@@ -421,6 +421,10 @@ header{
 .mobile ul li p{
     margin-top: 10px;
 }
+.mobile ul li img{
+    width:16px;
+    height:16px;
+}
 .btn_wu{
    width: 190px;
     background-color:#6c6669;
